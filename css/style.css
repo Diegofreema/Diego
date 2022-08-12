@@ -1458,3 +1458,104 @@ section.services .container{
     
 }
 }
+
+@media (max-width: 724px) {
+    .menu-con{
+        display: block;
+        cursor: pointer;
+        z-index: 5;
+        left: 42rem;
+        top: 2.5rem;
+        
+    }
+}
+@media (max-width: 543px) {
+    .menu-con{
+        display: block;
+        cursor: pointer;
+        z-index: 5;
+        left: 32rem !important;
+        top: 2.5rem;
+        
+    }
+}
+@media (max-width: 512px) {
+    .menu-con{
+        display: block;
+        cursor: pointer;
+        z-index: 5;
+        left: 30rem !important;
+        top: 2.5rem;
+        
+    }
+}
+@media (max-width: 500px) {
+    .menu-con{
+        display: block;
+        cursor: pointer;
+        z-index: 5;
+        left: 28rem !important;
+        top: 2.5rem;
+        
+    }
+    section.landing .container .profile-area{
+        margin-bottom: 7rem;
+    }
+}
+@media (max-width: 450px) {
+    .menu-con{
+        display: block;
+        cursor: pointer;
+        z-index: 5;
+        left: 25rem !important;
+        top: 2.5rem;
+        
+    }
+}
+@media (max-width: 406px) {
+    .menu-con{
+        display: block;
+        cursor: pointer;
+        z-index: 5;
+        left: 23rem !important;
+        top: 2.5rem;
+        
+    }
+}
+
+@media (max-width: 380px) {
+    section.landing .container{
+        width: 100vw;
+        left: 0;
+        
+    }
+    section.landing .container .profile-area{
+        margin-bottom: 7rem;
+        width: 100%;
+    }
+    .outer-circle{
+        width: 10rem;
+        height: 10rem;
+    }
+    section.services .container{
+        grid-template-columns: 1fr;
+    }
+    
+}
+@media (max-width: 368px) {
+    .menu-con{
+        display: block;
+        cursor: pointer;
+        z-index: 5;
+        left: 20rem !important;
+        top: 2.5rem;
+        
+    }
+    section.services .container{
+        grid-template-columns: 1fr;
+    }
+    .con h4,
+    .con h1{
+        font-size: 90%;
+    }
+}
