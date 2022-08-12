@@ -1446,7 +1446,7 @@ section.services .container{
 }
 .con h4,
 .con h1{
-    font-size: 95%;
+    font-size: 2rem;
 }
 
 .menu-con{
@@ -1556,6 +1556,6 @@ section.services .container{
     }
     .con h4,
     .con h1{
-        font-size: 90%;
+        font-size: 2rem;
     }
 }
