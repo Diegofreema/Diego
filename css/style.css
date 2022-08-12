@@ -1403,7 +1403,7 @@ section.testimonials .container{
 .section.landing{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: start;
 	
 	left: -4rem;
 }
