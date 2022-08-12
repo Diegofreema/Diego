@@ -1405,7 +1405,7 @@ section.testimonials .container{
     align-items: center;
     justify-content: center;
 	
-	left: 0;
+	left: -4rem;
 }
 section.landing .container {
     grid-template-columns: 1fr;
