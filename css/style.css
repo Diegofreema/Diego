@@ -1413,7 +1413,7 @@ section.landing .container {
     margin-top: 0;
     margin-left: auto;
     margin-right: auto;
-    width: 95vw;
+    width: 90%;
     left: 0;
     place-items: center center;
 }
@@ -1422,7 +1422,7 @@ section.landing .container .profile-area {
 }
 section.about .container  {
     grid-template-columns: 1fr;
-    width: 70%;
+    width: 90%;
     left: 0;
     grid-column: 0;
    margin: auto;
