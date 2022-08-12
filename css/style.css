@@ -1404,6 +1404,7 @@ section.testimonials .container{
     display: flex;
     align-items: center;
     justify-content: center;
+background-color: green;
 }
 section.landing .container {
     grid-template-columns: 1fr;
