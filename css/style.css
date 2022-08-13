@@ -1540,6 +1540,19 @@ section.services .container{
     section.services .container{
         grid-template-columns: 1fr;
     }
+	section.services .container{
+        grid-template-columns: 1fr;
+    }
+    section.about .info p{
+        width: 100%;
+        text-align: center;
+    }
+    section.about .info{
+        text-align: center;
+    }
+    section.about .image{
+        margin-left: 0;
+    }
     
 }
 @media (max-width: 368px) {
@@ -1557,5 +1570,11 @@ section.services .container{
     .con h4,
     .con h1{
         font-size: 2rem;
+    }
+	 section.about .container{
+        grid-template-columns: 1fr;
+        width: 90%;
+        text-align: center;
+        justify-content: center;
     }
 }
